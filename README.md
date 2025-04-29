@@ -25,6 +25,10 @@ This project bridges the gap between visual and auditory mediums, making informa
 
 By combining these technologies, **Image2Voice** delivers a seamless and inclusive experience for users who need auditory assistance with visual content.
 
+## Demo Screenshot
+![image](https://github.com/user-attachments/assets/cf4511d9-af37-45d5-b88a-daf02db9b781)
+
+
 ## Acknowledgement
 
 We would like to express our gratitude to:  
